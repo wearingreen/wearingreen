@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This repository contains files for CIS300 project assignments
 <!--
 **wearingreen/wearingreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
